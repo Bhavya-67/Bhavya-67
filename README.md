@@ -1,18 +1,5 @@
 # Hi there, I'm Bhavyasree! 👋
 
-🎓 Final Year B.Tech (AI & ML) Student  
-📊 Aspiring Data Analyst | Python | SQL | Power BI | Excel  
-💻 Passionate about transforming data into actionable insights  
-📈 Interested in Data Analytics, Business Intelligence, and Machine Learning
-
-## 🚀 About Me
-- 🌱 Currently enhancing my skills in Data Analytics and Machine Learning
-- 📊 Building real-world projects using Python, SQL, Power BI, and Excel
-- 💡 Passionate about solving business problems with data-driven solutions
-- 🤝 Open to collaborating on Data Analytics and AI/ML projects
-- 🎯 Actively seeking internship and entry-level opportunities in Data Analytics
-- 📚 Continuously learning new tools and technologies to improve my technical skills
-
 ## 🛠️ Tech Stack
 - **Languages:** Python, SQL, Java, C
 - **Data Analytics:** Pandas, NumPy, Matplotlib, Power BI, Excel
